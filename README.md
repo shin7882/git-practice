@@ -5,3 +5,4 @@ conflict remote上で更新(conflict will happen)
 for rebase
 stash for conflict
 practice for stash tracked
+stash 変更(2nd)
